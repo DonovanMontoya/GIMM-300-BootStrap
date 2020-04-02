@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -31,19 +31,16 @@
           <a class="nav-link" href="/bootstrap">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="http://donovanmontoya.com">Wordpress Site</a>
+          <a class="nav-link" href="#" target="_blank">Link</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/bootstrap/pages/photos.html" tabindex="-1" aria-disabled="true">Photos</a>
         </li>
 		  <li class="nav-item">
-          <a class="nav-link" href="/bootstrap/pages/TestPage.html" tabindex="-1" aria-disabled="true">Contact</a>
+          <a class="nav-link" href="/bootstrap/pages/testpage.php" tabindex="-1" aria-disabled="true">Contact</a>
         </li>
       </ul>
-      <form class="form-inline mt-2 mt-md-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-      </form>
+      <a class="navbar-brand" href="http://donovanmontoya.com" target="_blank">Donovan Montoya</a>
     </div>
   </nav>
 </header>
@@ -106,7 +103,7 @@
   <div class="custom_cont">
 
     <!-- Three columns of text below the carousel -->
-    <div class="row">
+     <div class="row">
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
         <h2>Heading</h2>
@@ -173,6 +170,7 @@
   </div><!-- /.container -->
 
 
+	  
   <!-- FOOTER -->
   <footer class="container">
     <p class="float-right"><a href="#">Back to top</a></p>
