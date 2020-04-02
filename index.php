@@ -7,7 +7,7 @@
 	<meta name="description" content="Donovan Montoya Photography Portfolio">
     <meta name="author" content="Donovan Montoya">
 	  
-	<link rel="icon" href="images/favicon.jpg">
+	<link rel="icon" href="images/favicon2.jpeg">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -31,13 +31,13 @@
           <a class="nav-link" href="/bootstrap">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" target="_blank">Link</a>
+          <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCbsAe8sWmvj1xijGW8bm65w?">Videography</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/bootstrap/pages/photos.html" tabindex="-1" aria-disabled="true">Photos</a>
+          <a class="nav-link" href="/bootstrap/pages/nature-pictures.html" tabindex="-1" aria-disabled="true">Nature Photography</a>
         </li>
 		  <li class="nav-item">
-          <a class="nav-link" href="/bootstrap/pages/testpage.php" tabindex="-1" aria-disabled="true">Contact</a>
+          <a class="nav-link" href="/bootstrap/pages/city-pictures.html" tabindex="-1" aria-disabled="true">City Photography</a>
         </li>
       </ul>
       <a class="navbar-brand" href="http://donovanmontoya.com" target="_blank">Donovan Montoya</a>
@@ -68,19 +68,19 @@
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><img width="100%" height="100%" src="images/IMG_4502.jpg"/></svg>
         <div class="container">
           <div class="carousel-caption">
-            <h1>The </h1>
-            <p>People are unique, and the ultimate role of the photographer is to capture that unique property!</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+            <h1>Videography</h1>
+            <p>In the world of still images, film can be used to demonstrate many compositional techniques.</p>
+            <p><a class="btn btn-lg btn-primary" target="_blank" href="https://www.youtube.com/channel/UCbsAe8sWmvj1xijGW8bm65w?" role="button">View Here</a></p>
           </div>
         </div>
       </div>
       <div class="carousel-item">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><img width="100%" height="100%" src="images/IMG_0526.jpg"/></svg>
         <div class="container">
-          <div class="carousel-caption text-right">
+          <div class="carousel-caption text-left">
             <h1>Learn More About Me!</h1>
             <p>Want to know more about me? Check this out!</p>
-            <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+            <p><a class="btn btn-lg btn-primary" target="_blank" href="https://donovanmontoya.com" role="button">Learn More</a></p>
           </div>
         </div>
       </div>
