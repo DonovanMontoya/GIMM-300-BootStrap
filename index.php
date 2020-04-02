@@ -31,7 +31,7 @@
           <a class="nav-link" href="/bootstrap">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCbsAe8sWmvj1xijGW8bm65w?">Videography</a>
+          <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCbsAe8sWmvj1xijGW8bm65w?">Videography [external link]</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="/bootstrap/pages/nature-pictures.html" tabindex="-1" aria-disabled="true">Nature Photography</a>
@@ -40,7 +40,7 @@
           <a class="nav-link" href="/bootstrap/pages/city-pictures.html" tabindex="-1" aria-disabled="true">City Photography</a>
         </li>
 		  <li class="nav-item">
-          <a class="nav-link" href="http://3.84.54.106/index.php/contact/" target="_blank" tabindex="-1" aria-disabled="true">Contact Me</a>
+          <a class="nav-link" href="http://3.84.54.106/index.php/contact/" target="_blank" tabindex="-1" aria-disabled="true">Contact Me [external link]</a>
         </li>
       </ul>
       <a class="navbar-brand" href="http://donovanmontoya.com" target="_blank">Donovan Montoya</a>
