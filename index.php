@@ -39,6 +39,9 @@
 		  <li class="nav-item">
           <a class="nav-link" href="/bootstrap/pages/city-pictures.html" tabindex="-1" aria-disabled="true">City Photography</a>
         </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="http://3.84.54.106/index.php/contact/" target="_blank" tabindex="-1" aria-disabled="true">Contact Me</a>
+        </li>
       </ul>
       <a class="navbar-brand" href="http://donovanmontoya.com" target="_blank">Donovan Montoya</a>
     </div>
