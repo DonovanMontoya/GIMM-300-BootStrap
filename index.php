@@ -34,7 +34,7 @@
           <a class="nav-link" target="_blank" href="https://www.youtube.com/channel/UCbsAe8sWmvj1xijGW8bm65w?">Videography [external link]</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/bootstrap/pages/nature-pictures.html" tabindex="-1" aria-disabled="true">Nature Photography</a>
+          <a class="nav-link" href="/bootstrap/pages/nature-pictures.html" tabindex="-1" aria-disabled="true">Travel Photography</a>
         </li>
 		  <li class="nav-item">
           <a class="nav-link" href="/bootstrap/pages/city-pictures.html" tabindex="-1" aria-disabled="true">City Photography</a>
